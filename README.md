@@ -9,4 +9,3 @@
 <li>GitHub: Utilizado para hospedar o repositório do projeto e colaborar no desenvolvimento.</li>
 </ul>
 <img src="imagens/Captura de tela 2024-06-16 164616.png">
-<img src="imagens/Captura de tela 2024-06-16 165024.png">
